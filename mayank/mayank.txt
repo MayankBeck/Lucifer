@@ -1,1 +1,31 @@
 mayank
+ Below is the code for list of events and other structure:
+  <div class="events">
+    <hr>
+    <h2>EVENTS AND WORKSHOPS</h2>
+    <ul>
+        <li>AAROHAN</li>
+        <li>AutoCad</li>
+        <li>GIT</li>
+        <li>Rangotsav</li>
+        <li>Arc GSM</li>
+        <li>Stad Pro</li>
+        <li>Revitt</li>
+    </ul>
+
+</div>
+<div class=" gallery">
+    <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-autocad-lt/fy20/features/images/autocad-lt-on-any-device-large-1920x1040.jpg">
+    <img src="https://th.bing.com/th/id/OIP.UkejdTf_nnSpyUmVPKJ7lAHaDy?pid=Api&rs=1">
+    <img src="https://www.manandmachine.co.uk/wp-content/uploads/2017/04/revit_screen2.png">
+    <img src="https://th.bing.com/th/id/OIP.uBnZQNvYmh0_CGlTj_MjEgHaHa?pid=Api&rs=1">
+    
+</div>
+<div class="icons">
+
+</div>
+<div class="contact">
+    
+</div> 
+
+Append CSS accordingly::
